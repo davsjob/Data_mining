@@ -1,2 +1,2 @@
 # Data_mining
-Data mining project
+This is for the Data mining project
